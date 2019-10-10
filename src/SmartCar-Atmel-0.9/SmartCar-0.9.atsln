@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "SmartCar-0.9", "SmartCar-0.9.cppproj", "{A03A61EE-4E35-4130-AAF7-CE2324D2F83F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03A61EE-4E35-4130-AAF7-CE2324D2F83F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A03A61EE-4E35-4130-AAF7-CE2324D2F83F}.Debug|AVR.Build.0 = Debug|AVR
+		{A03A61EE-4E35-4130-AAF7-CE2324D2F83F}.Release|AVR.ActiveCfg = Release|AVR
+		{A03A61EE-4E35-4130-AAF7-CE2324D2F83F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
